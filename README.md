@@ -20,5 +20,7 @@ Hardware
 
 Now, you've to wire the circuit using my png file "quick_reaction_circuit.png". Also read the descriptions posted there below the photo. And then run the code.
 
+When you click the picture above, click on the blue line named as "Here is the circuit diagram attached". By clicking it. you can find all circuit related details. Run the code
+
 Enjoy playing the game :)
 
