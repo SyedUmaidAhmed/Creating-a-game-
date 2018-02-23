@@ -18,5 +18,7 @@ Hardware
 2 x Male-to-male jumper wires
 2 x Tactile push buttons
 
+Now, you've to wire the circuit using my png file "quick_reaction_circuit.png". Also read the descriptions posted there below the photo. And then run the code.
 
+Enjoy playing the game :)
 
